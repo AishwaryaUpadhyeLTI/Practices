@@ -1,0 +1,109 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "OnetoonejpaApplication",
+            "request": "launch",
+            "mainClass": "com.onetoone.onetoonejpa.OnetoonejpaApplication",
+            "projectName": "onetoonejpa"
+        },
+        {
+            "type": "java",
+            "name": "OnetomanyjpabookApplication",
+            "request": "launch",
+            "mainClass": "com.onetomanypractice.onetomanyjpabook.OnetomanyjpabookApplication",
+            "projectName": "onetomanyjpabook"
+        },
+        {
+            "type": "java",
+            "name": "HashmapApplication",
+            "request": "launch",
+            "mainClass": "com.collectionpractices.hashmap.HashmapApplication",
+            "projectName": "hashmap"
+        },
+        {
+            "type": "java",
+            "name": "ArraylistApplication",
+            "request": "launch",
+            "mainClass": "com.collectionpractice.arraylist.ArraylistApplication",
+            "projectName": "arraylist"
+        },
+        {
+            "type": "java",
+            "name": "GolddiggerApplication",
+            "request": "launch",
+            "mainClass": "com.shopping.golddigger.GolddiggerApplication",
+            "projectName": "golddigger"
+        },
+        {
+            "type": "java",
+            "name": "BookjpaApplication",
+            "request": "launch",
+            "mainClass": "com.ltimindtreeassignment.bookjpa.BookjpaApplication",
+            "projectName": "bookjpa"
+        },
+        {
+            "type": "java",
+            "name": "JpaemsApplication",
+            "request": "launch",
+            "mainClass": "com.jpa.jpaems.JpaemsApplication",
+            "projectName": "jpaems"
+        },
+        {
+            "type": "java",
+            "name": "FlightmanagementApplication",
+            "request": "launch",
+            "mainClass": "com.practice.flightmanagement.FlightmanagementApplication",
+            "projectName": "flightmanagement"
+        },
+        {
+            "type": "java",
+            "name": "ProductmanagementApplication",
+            "request": "launch",
+            "mainClass": "com.springproject.productmanagement.ProductmanagementApplication",
+            "projectName": "productmanagement"
+        },
+        {
+            "type": "java",
+            "name": "EmployeemanagementApplication",
+            "request": "launch",
+            "mainClass": "com.spring.employeemanagement.EmployeemanagementApplication",
+            "projectName": "employeemanagement"
+        },
+        {
+            "type": "java",
+            "name": "BlogmanagementApplication",
+            "request": "launch",
+            "mainClass": "com.springboot.blogmanagement.BlogmanagementApplication",
+            "projectName": "blogmanagement"
+        },
+        {
+            "type": "java",
+            "name": "EmsApplication",
+            "request": "launch",
+            "mainClass": "com.ltimindtree.ems.EmsApplication",
+            "projectName": "ems"
+        },
+        {
+            "name": "Test App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Test App",
+            "type": "pwa-node"
+        },
+        {
+            "name": "Submit App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Submit App",
+            "type": "pwa-node"
+        }
+    ]
+}
